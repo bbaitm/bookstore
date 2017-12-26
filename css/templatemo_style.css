@@ -288,12 +288,12 @@ hr {
 }
 .logo-wrapper a {
   display: inline-block;
-  overflow: hidden;
-  padding-left: 130px;
+  overflow: auto;
+  padding-left: 100px;
   line-height: 100px;
   text-transform: uppercase;
   color: #ec523f;
-  font-size: 32px;
+  font-size: 28px;
   font-weight: 700;
 }
 
